@@ -118,7 +118,7 @@ Supporting retail operations, donation sorting, and customer service
 📍 Auckland, New Zealand  
 📧 **goldyonwar@gmail.com**  
 📱 +64 21 898 271  
-🔗 LinkedIn (add your link here)
+🔗 [LinkedIn](https://www.linkedin.com/in/goldyonwar)
 
 ---
 
