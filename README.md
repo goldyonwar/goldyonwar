@@ -88,7 +88,4 @@ UI/UX design, and firmware update integrations.
   — **Matthew Jansen, Managing Director, Leegaa Limited**
 
 ### 📄 Full Reference Letter
-If you want to include the PDF or image, upload it to your repo and link it here:
-
-```markdown
-📄 [View Full Leegaa Reference Letter (PDF)](res/reference.pdf)
+**[View Full Leegaa Reference Letter (PDF)](https://github.com/goldyonwar/goldyonwar/blob/main/res/reference.pdf)**
